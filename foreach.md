@@ -71,4 +71,4 @@ for(var i=1;i++;i<infos.length){
 ```
 
 ### 效果
-![](./foreach/Snipaste_2017-09-07_22-57-03.png)
+![](./image/Snipaste_2017-09-07_22-57-03.png)
